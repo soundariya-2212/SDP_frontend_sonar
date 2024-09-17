@@ -1,0 +1,14 @@
+/* Navbar.css */
+.nav-link {
+    color: white;
+    transition:color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: gray;
+  }
+  
+  .active-link {
+    color: #001f3f !important; /* Navy blue color with !important to override other styles */
+  }
+  

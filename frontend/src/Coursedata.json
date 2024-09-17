@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to Programming",
+      "instructor": "John Doe",
+      "category": "Programming",
+      "difficulty": "Beginner",
+      "rating": 4.5,
+      "date": "2024-06-01",
+      "shortDescription": "Learn the basics of programming with hands-on examples.",
+      "syllabus": [
+        "Introduction to Programming",
+        "Variables and Data Types",
+        "Control Structures",
+        "Functions",
+        "Arrays and Collections",
+        "Object-Oriented Programming",
+        "Final Project"
+      ],
+      "schedule": "June 1, 2024 - July 15, 2024, 2 classes per week",
+      "prerequisites": "None",
+      "price": "$99.99"
+    },
+    {
+      "id": 2,
+      "title": "Advanced JavaScript",
+      "instructor": "Jane Smith",
+      "category": "Programming",
+      "difficulty": "Intermediate",
+      "rating": 4.8,
+      "date": "2024-07-15",
+      "shortDescription": "Deep dive into JavaScript, including ES6 features, asynchronous programming, and more.",
+      "syllabus": [
+        "JavaScript ES6+ Features",
+        "Asynchronous Programming: Callbacks, Promises, Async/Await",
+        "JavaScript Design Patterns",
+        "Error Handling",
+        "Testing JavaScript Code",
+        "Working with APIs",
+        "Advanced Debugging Techniques"
+      ],
+      "schedule": "July 15, 2024 - September 15, 2024, 3 classes per week",
+      "prerequisites": "Basic knowledge of JavaScript",
+      "price": "$149.99"
+    },
+    {
+      "id": 3,
+      "title": "Introduction to Graphic Design",
+      "instructor": "Emily Johnson",
+      "category": "Design",
+      "difficulty": "Beginner",
+      "rating": 4.6,
+      "date": "2024-08-01",
+      "shortDescription": "An entry-level course that covers the fundamentals of graphic design using industry-standard tools.",
+      "syllabus": [
+        "Design Principles",
+        "Typography",
+        "Color Theory",
+        "Basic Tools in Adobe Illustrator",
+        "Creating Logos",
+        "Designing for Print vs. Digital",
+        "Portfolio Development"
+      ],
+      "schedule": "August 1, 2024 - October 1, 2024, 1 class per week",
+      "prerequisites": "None",
+      "price": "$129.99"
+    },
+    {
+      "id": 4,
+      "title": "Data Science with Python",
+      "instructor": "Michael Lee",
+      "category": "Data Science",
+      "difficulty": "Advanced",
+      "rating": 4.9,
+      "date": "2024-09-01",
+      "shortDescription": "A comprehensive course on data science using Python, including data analysis, visualization, and machine learning.",
+      "syllabus": [
+        "Introduction to Data Science",
+        "Data Cleaning and Preparation",
+        "Exploratory Data Analysis",
+        "Data Visualization with Matplotlib and Seaborn",
+        "Introduction to Machine Learning",
+        "Building and Evaluating Machine Learning Models",
+        "Capstone Project"
+      ],
+      "schedule": "September 1, 2024 - December 1, 2024, 3 classes per week",
+      "prerequisites": "Basic knowledge of Python and statistics",
+      "price": "$199.99"
+    },
+    {
+      "id": 5,
+      "title": "Fundamentals of Business Management",
+      "instructor": "Sarah Wilson",
+      "category": "Business",
+      "difficulty": "Intermediate",
+      "rating": 4.3,
+      "date": "2024-10-01",
+      "shortDescription": "Explore key concepts in business management, including strategic planning, marketing, and operations.",
+      "syllabus": [
+        "Business Management Overview",
+        "Strategic Planning and Management",
+        "Marketing Principles",
+        "Operations Management",
+        "Financial Management",
+        "Human Resources Management",
+        "Leadership and Team Management"
+      ],
+      "schedule": "October 1, 2024 - December 15, 2024, 2 classes per week",
+      "prerequisites": "None",
+      "price": "$139.99"
+    },
+    {
+      "id": 6,
+      "title": "Digital Marketing Essentials",
+      "instructor": "David Brown",
+      "category": "Marketing",
+      "difficulty": "Beginner",
+      "rating": 4.7,
+      "date": "2024-11-01",
+      "shortDescription": "Learn the basics of digital marketing, including SEO, SEM, content marketing, and social media.",
+      "syllabus": [
+        "Introduction to Digital Marketing",
+        "Search Engine Optimization (SEO)",
+        "Search Engine Marketing (SEM)",
+        "Content Marketing Strategies",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Analyzing Marketing Campaigns"
+      ],
+      "schedule": "November 1, 2024 - December 31, 2024, 2 classes per week",
+      "prerequisites": "None",
+      "price": "$119.99"
+    }
+  ]
+  
